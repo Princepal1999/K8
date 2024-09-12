@@ -1,4 +1,4 @@
-Creating objects
+# Creating objects
 Kubernetes manifests can be defined in YAML or JSON. The file extension .yaml, .yml, and .json can be used.
 
 kubectl apply -f ./my-manifest.yaml                 # create resource(s)
